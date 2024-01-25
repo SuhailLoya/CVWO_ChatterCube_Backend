@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 
 ChatterCube is a curated web forum designed to facilitate meaningful and diverse conversations. It will serve as an intellectual hub where users engage in insightful dialogue across a spectrum of topics. More than just a forum, ChatterCube encourages an environment where users can explore trends, participate in substantive debates, and enjoy amicable discussions. Within the refined confines of ChatterCube, every voice contributes to a richer understanding of the world, fostering an atmosphere of respect and intellectual exchange.
 
-#Setup:
+# Setup:
 
 I had to separate my main project into two different repositories for deployment requirements. I have still preserved the original repository.
 
