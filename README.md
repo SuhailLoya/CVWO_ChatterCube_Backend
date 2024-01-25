@@ -7,7 +7,9 @@ ChatterCube is a curated web forum designed to facilitate meaningful and diverse
 I had to separate my main project into two different repositories for deployment requirements. I have still preserved the original repository.
 
 Original: https://github.com/SuhailLoya/ChatterCube_CVWO_Project (with all the main commits)
+
 Frontend: https://github.com/SuhailLoya/CVWO_Frontend
+
 Backend: https://github.com/SuhailLoya/CVWO_Backend
 
 Currently,
