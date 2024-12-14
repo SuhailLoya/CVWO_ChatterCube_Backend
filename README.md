@@ -8,9 +8,9 @@ I had to separate my main project into two different repositories for deployment
 
 Original: https://github.com/SuhailLoya/ChatterCube_CVWO_Project (with all the main commits)
 
-Frontend: https://github.com/SuhailLoya/CVWO_Frontend
+Frontend: https://github.com/SuhailLoya/CVWO_ChatterCube_Frontend
 
-Backend: https://github.com/SuhailLoya/CVWO_Backend
+Backend: https://github.com/SuhailLoya/CVWO_ChatterCube_Backend
 
 Currently,
 The front end is deployed using Vercel at: https://cvwo-frontend-gamma.vercel.app/
